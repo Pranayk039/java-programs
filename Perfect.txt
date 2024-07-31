@@ -1,0 +1,11 @@
+class Perfect{
+public static void main(string args[]){
+  int n=25,i;
+  while(i<=n)
+  {
+	if(n%i==0)
+	System.out.println("factors of"+ n);
+	i++;
+  }
+  
+}}
