@@ -1,0 +1,16 @@
+.pk{
+    background-color: blue;
+    width: 350px;
+    height: 90px;
+}
+#q{
+    font-size: xx-large;
+}
+p{
+    text-decoration-color: brown;
+    text-align: center;
+}
+*{
+    text-shadow: 200px;
+    text-align: center;
+}
